@@ -19,7 +19,7 @@ Personal productivity plugins for Claude. Most are Notion-based, **guided and ap
 
 ## Repository contents
 
-The plugins are stored as packaged archives in the repo root:
+The plugins are stored as packaged archives in `plug-ins/`:
 
 | File | Plugin |
 |---|---|

@@ -23,16 +23,16 @@ The plugins are stored as packaged archives in `plug-ins/`:
 
 | File | Plugin |
 |---|---|
-| `research-notion.plugin` | research-notion |
-| `storyline-notion.plugin` | storyline-notion |
-| `visualisation-notion.plugin` | visualisation-notion |
-| `strategist-notion.plugin` | strategist-notion |
-| `concept-notion.plugin` | concept-notion |
-| `authoring-notion.plugin` | authoring-notion |
-| `educator-notion.plugin` | educator-notion |
-| `Learn notion-0.1.0-v1.zip` | learn-notion |
-| `pdf-publisher.plugin` | pdf-publisher |
-| `pdf-to-notion.zip` | pdf-to-notion |
+| `plug-ins/research-notion.plugin` | research-notion |
+| `plug-ins/storyline-notion.plugin` | storyline-notion |
+| `plug-ins/visualisation-notion.plugin` | visualisation-notion |
+| `plug-ins/strategist-notion.plugin` | strategist-notion |
+| `plug-ins/concept-notion.plugin` | concept-notion |
+| `plug-ins/authoring-notion.plugin` | authoring-notion |
+| `plug-ins/educator-notion.plugin` | educator-notion |
+| `plug-ins/Learn notion-0.1.0-v1.zip` | learn-notion |
+| `plug-ins/pdf-publisher.plugin` | pdf-publisher |
+| `plug-ins/pdf-to-notion.zip` | pdf-to-notion |
 
 `guides/` holds a newcomer how-to for each plugin.
 
